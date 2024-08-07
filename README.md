@@ -50,3 +50,13 @@ JavaScript의 변수는 느슨한 타입의 동적 언어다.
 같은 변수가 여러 타입을 가질 수 있고 
 타입 명시가 필요 없다. 
 
+#### Tamplate Litteral
+`을 이옹한 문자열   
+줄바꿈을 쉽게 할 수 있고 표현식을 넣어주기가 쉬워졌다.
+
+``` javascript
+const a = 5
+const b = 3
+
+console.log(`두 수 a와 b의 합은 ${a+b}이다.`)
+```
