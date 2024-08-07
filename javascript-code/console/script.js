@@ -15,4 +15,4 @@ console.log(4)
 console.log(5)
 console.timeEnd('hello')
 
-console.clear();
+console.clear()
